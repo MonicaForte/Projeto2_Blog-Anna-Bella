@@ -1,0 +1,61 @@
+*{
+    margin: 0 auto;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body{
+    background-image: url(imagens/fundo.png);
+    width: 900px;
+    margin: 10px;
+}
+
+.imgcapa {
+    background-repeat: no-repeat;
+}
+    
+#menu{
+    list-style: none;
+    background-color: #c5c5b2;
+    padding: 20px;
+}
+
+li{
+    list-style: none;
+    display: inline;
+    margin: 15px;
+    padding: 10px;
+}
+
+a {
+    text-decoration: none;
+    color: #4b566a;
+    font-weight: bold;
+
+}
+
+h1{
+    color: #868664;
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.areaTexto{
+    background-color: aliceblue;
+    text-align: justify;
+    padding: 10px;
+}
+
+.img-campanha{
+    border: 10px solid  #c5c5b2;
+}
+
+.contato{
+    font-weight: bold;
+    padding: 10 px;
+}
+
+footer{
+    text-align: center;
+    padding: 10px;
+}
